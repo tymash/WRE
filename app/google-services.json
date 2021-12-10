@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546764100029",
+    "project_id": "world-real-estate",
+    "storage_bucket": "world-real-estate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546764100029:android:b89f57f2db248fe5fd82d4",
+        "android_client_info": {
+          "package_name": "com.example.worldrealestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546764100029-s7tfbg6g7e6tld6dckh4fk4prsu59hou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNQduzb4PyU1fnt92penBNg0t2eSr97Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546764100029-s7tfbg6g7e6tld6dckh4fk4prsu59hou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
